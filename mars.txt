@@ -1,4 +1,8 @@
 Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
+<<<<<<< HEAD
 My name is gillian
+=======
+my name is aubree storm
+>>>>>>> 8dce07687f04c3f54fb0d70ba38bbf51d94876ab
